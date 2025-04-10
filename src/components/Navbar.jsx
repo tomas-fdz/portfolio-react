@@ -6,7 +6,6 @@ const Navbar = ({ darkMode, setDarkMode }) => {
     { name: 'Inicio', to: 'home' },
     { name: 'Sobre mí', to: 'about' },
     { name: 'Habilidades', to: 'skills' },
-    { name: 'Proyectos', to: 'projects' },
     { name: 'Contacto', to: 'contact' }
   ];
 
@@ -17,7 +16,9 @@ const Navbar = ({ darkMode, setDarkMode }) => {
           {/* Logo */}
           <Link 
             to="home" 
-            smooth={true} 
+            smooth={true}
+            offset={-64}
+            duration={500}
             className="text-xl font-bold text-gray-900 dark:text-white cursor-pointer"
           >
             MiPortafolio
@@ -30,6 +31,8 @@ const Navbar = ({ darkMode, setDarkMode }) => {
                 key={link.to}
                 to={link.to}
                 smooth={true}
+                offset={-64}
+                duration={500}
                 className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors cursor-pointer"
               >
                 {link.name}
@@ -51,3 +54,4 @@ const Navbar = ({ darkMode, setDarkMode }) => {
 };
 
 export default Navbar;
+
