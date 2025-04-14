@@ -11,7 +11,7 @@ const About = () => {
       >
         <h2>Sobre mí</h2>
         <p className="text-gray-700 dark:text-gray-300 text-lg leading-relaxed">
-          Soy un desarrollador frontend apasionado por crear experiencias web modernas y atractivas. 
+          Soy un desarrollador full-stack apasionado por crear experiencias web modernas y atractivas. 
           Me encanta aprender nuevas tecnologías y colaborar en proyectos creativos. 
           Actualmente estoy construyendo este portafolio para mostrar lo que sé hacer y seguir mejorando cada día.
         </p>
