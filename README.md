@@ -2,6 +2,8 @@
 
 Este es mi portfolio personal desarrollado con **React**, usando diseño moderno, componentes reutilizables y modo oscuro.
 
+https://portfolio-react-sand-nine.vercel.app/
+
 ## 🚀 Tecnologías utilizadas
 
 - **React** - Biblioteca principal para la interfaz.
@@ -39,7 +41,6 @@ npm start
 npm install
 node index.js
 ```
-Puedes ver el proyecto en vivo en el siguiente enlace: https://portfolio-react-sand-nine.vercel.app/
 
 
 
