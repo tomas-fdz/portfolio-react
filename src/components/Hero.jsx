@@ -19,7 +19,7 @@ const Hero = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1.2 }}
       >
-        Desarrollador Frontend apasionado por crear experiencias digitales atractivas y funcionales.
+        Desarrollador Full Stack apasionado por crear experiencias digitales atractivas y funcionales.
       </motion.p>
 
       <motion.div
