@@ -32,12 +32,13 @@ Para instalar todas las dependencias y ejecutar el proyecto localmente:
 cd my-portfolio
 npm install
 npm start
+```
 
 Backend (Express):
-cd server
+```cd server
 npm install
 node index.js
-
+```
 Puedes ver el proyecto en vivo en el siguiente enlace: https://portfolio-react-sand-nine.vercel.app/
 
 
