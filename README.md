@@ -23,12 +23,12 @@ Este proyecto utiliza las siguientes dependencias principales, las cuales se enc
 - `react-intersection-observer`: Detecta cuándo los elementos están en la vista.
 - `react-scroll`: Facilita la navegación suave entre secciones.
 
-### 🔧 Instalación de dependencias
+## 🔧 Instalación de dependencias
 
 Para instalar todas las dependencias y ejecutar el proyecto localmente:
 
+**Frontend (React):**
 ```bash
-Frontend (React):
 cd my-portfolio
 npm install
 npm start
@@ -37,5 +37,9 @@ Backend (Express):
 cd server
 npm install
 node index.js
+
+Puedes ver el proyecto en vivo en el siguiente enlace: https://portfolio-react-sand-nine.vercel.app/
+
+
 
 
