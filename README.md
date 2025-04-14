@@ -34,7 +34,7 @@ npm install
 npm start
 ```
 
-Backend (Express):
+**Backend (Express):**
 ```cd server
 npm install
 node index.js
