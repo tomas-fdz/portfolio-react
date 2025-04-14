@@ -28,5 +28,14 @@ Este proyecto utiliza las siguientes dependencias principales, las cuales se enc
 Para instalar todas las dependencias y ejecutar el proyecto localmente:
 
 ```bash
+**Frontend (React):**
+cd my-portfolio
 npm install
 npm start
+
+**Backend (Express):**
+cd server
+npm install
+node index.js
+
+
